@@ -1,0 +1,1 @@
+python generate_strudel_samples_json.py --root . --base github:eamon1000000/strudelRepo --output strudel.json
